@@ -2,7 +2,7 @@
 "Build your quizzes effortlessly with this online quiz application! Professors can update questions in the 'quiz.json' file, while students enjoy a user-friendly interface, fetching data with JavaScript. View results in a detailed tabular format."
 
 ## Live Link:
-  [Clcik](https://nobin-sahu.github.io/Online-Quiz-Application/)
+  [Clcik](https://pateldev1234.github.io/Online-Quiz-Application/)
   # change the screen size to experience the Responsiveness of the Application
 
 ## Overview:
