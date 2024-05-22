@@ -1,0 +1,119 @@
+[
+    {
+        "id":1,
+        "question": "What is C++?",
+        "one":"C++ is an object oriented programming language",
+        "two":"C++ is a procedural programming language",
+        "three":"C++ supports both procedural and object oriented programming language",
+        "four":"C++ is a functional programming language",
+        "answer":"C++ supports both procedural and object oriented programming language"
+    },
+    {
+        "id":2,
+        "question": "Which of the following is not a type of Constructor in C++?",
+        "one":"Default constructor",
+        "two":"Parameterized constructor",
+        "three":"Copy constructor",
+        "four":"Friend constructor",
+        "answer":"Friend constructor"
+    },
+    {
+        "id":3,
+        "question": "Which of the following approach is used by C++?",
+        "one":"Left-right",
+        "two":"Right-left",
+        "three":"Bottom-up",
+        "four":"Top-down",
+        "answer":"Bottom-up"
+    },
+    {
+        "id":4,
+        "question": "  Who invented C++?",
+        "one":"Dennis Ritchie",
+        "two":"Ken Thompson",
+        "three":"Brian Kernighan",
+        "four":"Bjarne Stroustrup",
+        "answer":"Bjarne Stroustrup"
+    },
+    {
+        "id":5,
+        "question": " Which of the following is the correct syntax of including a user defined header files in C++? ",
+        "one":"#include [userdefined]",
+        "two":"#include “userdefined”",
+        "three":"#include <userdefined.h>",
+        "four":"#include <userdefined>",
+        "answer":"#include “userdefined”"
+    },
+    {
+        "id":6,
+        "question": "Which of the following is used for comments in C++?",
+        "one":"/* comment */",
+        "two":"// comment */",
+        "three":"// comment",
+        "four":"both // comment or /* comment */",
+        "answer":"both // comment or /* comment */"
+    },
+    {
+        "id":7,
+        "question": "Which of the following user-defined header file extension used in c++?",
+        "one":"hg",
+        "two":"cpp",
+        "three":"h",
+        "four":"hf",
+        "answer":"h"
+    },
+    {
+        "id":8,
+        "question": "Which of the following is a correct identifier in C++?",
+        "one":"VAR_1234",
+        "two":"$var_name",
+        "three":"7VARNAME",
+        "four":"7var_name",
+        "answer":"VAR_1234"
+    },
+    {
+        "id":9,
+        "question": "Which of the following type is provided by C++ but not C?",
+        "one":"double",
+        "two":"float",
+        "three":"int",
+        "four":"bool",
+        "answer":"bool"
+    },
+    {
+        "id":10,
+        "question":"What is the size of wchar_t in C++?",
+        "one":"Based on the number of bits in the system",
+        "two":"2 or 4",
+        "three":"4",
+        "four":"2",
+        "answer":"Based on the number of bits in the system"
+    },
+    {
+        "id":11,
+        "question":"What is the size of wchar_t in C++?",
+        "one":"Based on the number of bits in the system",
+        "two":"2 or 4",
+        "three":"4",
+        "four":"2",
+        "answer":"Based on the number of bits in the system"
+    },
+    {
+        "id":12,
+        "question":"What is the size of wchar_t in C++?",
+        "one":"Based on the number of bits in the system",
+        "two":"2 or 4",
+        "three":"4",
+        "four":"2",
+        "answer":"Based on the number of bits in the system"
+    },
+    {
+        "id":13,
+        "question":"What is the size of wchar_t in C++?",
+        "one":"Based on the number of bits in the system",
+        "two":"2 or 4",
+        "three":"4",
+        "four":"2",
+        "answer":"Based on the number of bits in the system"
+    }
+]
